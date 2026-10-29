@@ -1,0 +1,9 @@
+{
+  "name": "AulaControl",
+  "short_name": "AulaControl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1729",
+  "theme_color": "#0d1729",
+  "description": "Gesti\u00f3n acad\u00e9mica"
+}

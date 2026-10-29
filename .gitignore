@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+aulacontrol_auth.sqlite3
+*.db
+__pycache__/
+.env
